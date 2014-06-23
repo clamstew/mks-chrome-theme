@@ -58,5 +58,5 @@ Most of your **colors have to be in rgb**, and sometimes rgba.  Here is a conver
 
 The images section seems to take presidence over the colors section, assuming its not the order of the json file - first one it hits.  And most of the values in the colors section did not seem to take effect.  I noted above which ones I got to work.  If anyone knows what I'm doing wrong for things like the forward, back, reload, and settings button that would be much appreciated.  Themes like this one, https://chrome.google.com/webstore/detail/caroline-gardner/hlajhhigpcohfpjjmnbifacfbdoponci, seem to pull it off, but I'm not sure what property and value they are using.  It could even be an image.  I'd like to make the this hex color: `#b13976`.
 
-The Tints properties are not what you think - not colors.  It is explained here:
+The Tints properties are not what you think - not colors.  It is explained here: https://code.google.com/p/chromium/wiki/ThemeCreationGuide#button_background
 

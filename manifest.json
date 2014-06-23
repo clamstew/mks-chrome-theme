@@ -6,19 +6,17 @@
     "images" : {
       // WORKS - this is the the image that shows up behind the google search bar when you open a new tab
       "theme_ntp_background" : "images/logo.png",
-      // WORKS - this puts the mks logo in the bottom right hand corner
-      // @TODO: do something to the image like "powered by (image) makersquare"
-      // "theme_ntp_attribution" : "images/logo.png",
       //  WORKS - this is the background color for all inactive tabs
       // this is the darker blue - the same as the bookmarks text
       "theme_tab_background" : "images/theme_tab_background.png",
-      // this is the main thing behind the background of the tabs - 
-      // for now it is green like on the mks site
+      // WORKS - this is the main thing behind the background of the tabs - 
+      // for now it is green like on the mks marketing site
       "theme_frame" : "images/theme_frame.png",
-      // this actually colors the main tab and all the way down to the bookmark bar - NEEDS TO BE 118PX IN HIEGHT
+      // WORKS - this colors the main tab and all the way down to the bookmark bar - NEEDS TO BE 118PX IN HIEGHT
       "theme_toolbar" : "images/theme_toolbar.png"
       // Image of the maker of this theme - Put clay's gravatar here
       // we could also put the makersquare logo here
+      // @TODO: do something to the image like "powered by (image) makersquare"
       // "theme_ntp_attribution" : "images/attribution.png"
     },
     "colors" : {
@@ -38,7 +36,7 @@
       "button_background" : [0, 0, 0],
       // DOESN'T WORK YET
       "ntp_link" : [28, 60, 150],
-      // WORKS - The color of text, in the title of all INACTIVE tabs
+      // WORKS - The color of text, in the title of all INACTIVE tabs - set to white
       "tab_background_text": [255,255,255],
       // DOESN'T WORK YET
       "control_background": [0, 0, 0]
