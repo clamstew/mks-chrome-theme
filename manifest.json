@@ -1,0 +1,56 @@
+{
+  "version": "1.1",
+  "manifest_version": 2,
+  "name": "makersquare theme",
+  "theme": {
+    "images" : {
+      // WORKS - this is the the image that shows up behind the google search bar when you open a new tab
+      "theme_ntp_background" : "images/logo.png",
+      // WORKS - this puts the mks logo in the bottom right hand corner
+      // @TODO: do something to the image like "powered by (image) makersquare"
+      // "theme_ntp_attribution" : "images/logo.png",
+      //  WORKS - this is the background color for all inactive tabs
+      // this is the darker blue - the same as the bookmarks text
+      "theme_tab_background" : "images/theme_tab_background.png",
+      // this is the main thing behind the background of the tabs - 
+      // for now it is green like on the mks site
+      "theme_frame" : "images/theme_frame.png",
+      // this actually colors the main tab and all the way down to the bookmark bar - NEEDS TO BE 118PX IN HIEGHT
+      "theme_toolbar" : "images/theme_toolbar.png"
+      // Image of the maker of this theme - Put clay's gravatar here
+      // we could also put the makersquare logo here
+      // "theme_ntp_attribution" : "images/attribution.png"
+    },
+    "colors" : {
+      // DOESN'T WORK YET
+      // this doesn't seem to do much - its supposed to be the color of the main frame
+      // but it seems to have a subtle role in the color scheme
+      "frame" : [197, 228, 249],
+      // DOESN'T WORK YET
+      // no idea what this does either
+      "toolbar" : [197, 228, 249, 1],
+      // DOESN'T WORK YET
+      // this is the text color of the tabs
+      "tab_text" : [24, 46, 65],
+      // WORKS - the text color of the bookmarks in your bookmark bar
+      "bookmark_text" : [86, 156, 202], // for now it is the same blue as the inactive tabs
+      // DOESN'T WORK YET
+      "button_background" : [0, 0, 0],
+      // DOESN'T WORK YET
+      "ntp_link" : [28, 60, 150],
+      // WORKS - The color of text, in the title of all INACTIVE tabs
+      "tab_background_text": [255,255,255],
+      // DOESN'T WORK YET
+      "control_background": [0, 0, 0]
+    },
+    "properties" : {
+      // 0 make the Google logo colorful (standard google colors) on the new tab page
+      // we are choosing 1 to make it all white, which should make our graphics show up better
+      "ntp_logo_alternate" : 1
+    },
+    "tints" : {
+      // DOESNT' SEEM TO WORK === this colors the back, forward, settings, reload buttons in the 
+      "buttons" : [0.92,0.51,0.46]
+    }
+  }
+}
