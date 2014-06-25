@@ -47,8 +47,13 @@
       "ntp_logo_alternate" : 1
     },
     "tints" : {
-      // DOESNT' SEEM TO WORK === this colors the back, forward, settings, reload buttons in the 
+      // DOESNT' SEEM TO WORK === this colors the back, forward, settings, reload buttons in the
       "buttons" : [0.92,0.51,0.46]
-    }
+    },
+    "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    },
   }
 }
