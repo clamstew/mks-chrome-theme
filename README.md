@@ -5,7 +5,7 @@ A first stab a theme.
 
 Here is a screenshot:
 
-<img src="images/mks-theme-screenshot.png" alt="Theme screenshot" />
+<img src="images/mks-theme-screenshot2.png" alt="Theme screenshot" />
 
 
 ----
