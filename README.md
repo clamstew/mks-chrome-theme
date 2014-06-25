@@ -3,6 +3,15 @@ MakerSquare Chrome theme
 
 A first stab a theme.
 
+Grab it from the chrome store [here](https://chrome.google.com/webstore/detail/makersquare-theme/gjbkbmconnlnjgpjadpeoioolcpdebmk).
+
+<a href="https://chrome.google.com/webstore/detail/makersquare-theme/gjbkbmconnlnjgpjadpeoioolcpdebmk" target="_blank">
+  <img src="images/screenshot-on-chrome-store.png" alt="Theme screenshot" />
+</a>
+
+
+----
+
 Here is a screenshot:
 
 <img src="images/mks-theme-screenshot2.png" alt="Theme screenshot" />
