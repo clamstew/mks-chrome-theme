@@ -47,7 +47,7 @@ Go to `chrome://extensions/` in your chrome browser.  Make sure **Development mo
 
 #### Production
 
-This theme is not there yet, but it seems trivial to host this on the chrome extensions store when we are happy with it.
+This theme used method 1) below to get on the chrome store and host it here: https://chrome.google.com/webstore/detail/makersquare-theme/gjbkbmconnlnjgpjadpeoioolcpdebmk
 
 ##### Package your theme and publish it in one of the following ways:
 
